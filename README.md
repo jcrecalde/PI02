@@ -1,8 +1,6 @@
-# Proyecto Enacom 02
+# Proyecto Enacom
 
 # Data Analitics 
- 
-
 
 # Introducción: 
 Mi nombre es Juan Cruz Recalde y actualmente estoy trabajando en un proyecto de Data Analytics en los labs de SoyHenry. En este proyecto, nos enfocamos en la base de datos de Enacom con el objetivo de analizarla y extraer información valiosa. En particular, estamos buscando identificar patrones y tendencias en los datos para poder hacer recomendaciones en base a ellos. Luego vamos a tener que exponer nuestro producto frente a un Henry Mentor.
